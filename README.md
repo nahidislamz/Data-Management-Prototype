@@ -13,7 +13,7 @@
 # Subject Knowledge Design 
 *Use Dimensional Modelling Technique to design a schema for a prototype data warehouse, using the data on HM Home Office spending over £25,000*
 
-![Schema Design](https://github.com/nahidislamz/Data-Management-Prototype/blob/main/images/Schema_Diagram.png)
+![Schema Design](https://github.com/nahidislamz/Data-Management-Prototype/blob/main/images/ERD.png)
 
 ## Critical Analysis – Transforming design to implementation
 
